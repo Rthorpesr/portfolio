@@ -795,7 +795,7 @@ label {
 .header-topone {
   position: absolute;
   top: 0;
-  width: 100%; 
+  width: 100%;.team-icon
   z-index: 9999;
   left: 0;
   padding:20px 0px;
@@ -2952,8 +2952,8 @@ pre {
 .social-bookmark > li + li {
   margin-left: 5px;
 }
-.social-bookmark > li .github{
-  background-color: rgb(17, 16, 17);
+.social-bookmark > li .facebook {
+  background-color: #3B5998;
 }
 .social-bookmark > li .twitter {
   background-color: #00ACEE;
@@ -2964,7 +2964,7 @@ pre {
 .social-bookmark > li .youtube {
   background-color: #007bb6;
 }
-.social-bookmark > li .stackoverflow {
+.social-bookmark > li .instagram {
   background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
   background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
 }
